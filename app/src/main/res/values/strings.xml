@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhereToGo</string>
+    <string name="title">Title</string>
+    <string name="age_restriction">Age restriction</string>
+    <string name="description">Description</string>
+    <string name="item_url">Item url</string>
+    <string name="wheretogo">WhereToGo</string>
+</resources>
